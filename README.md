@@ -1,7 +1,7 @@
 # rieef_python
 Example of using pybind and cmake
 
-    git clone --recursive https://github.com/jmainpri/rieef_python
+    git clone --recursive git@github.com:jmainpri/rieef_python.git
     mkdir build
     cd build
     cmake ..
